@@ -1,0 +1,15 @@
+<?php
+	$config = array(
+			'protocol' => 'smtp',
+			'smtp_host' => 'email-smtp.ap-south-1.amazonaws.com',
+			'smtp_port' => 465,
+			'smtp_user' => 'AKIAYWIER7I54W43YRXA',
+			'smtp_pass' => 'BBQ5/D55xJDMBTIop75yq2W06AgtNJeQgriEevnTji18',
+			'mailtype' => 'html',
+			'smtp_crypto' => 'ssl',
+			'smtp_timeout' => '4',
+			'charset' => 'utf-8',
+			'wordwrap' => TRUE
+			);
+
+?>
